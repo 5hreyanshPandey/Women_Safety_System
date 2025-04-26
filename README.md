@@ -4,6 +4,7 @@ Overview
 The Women’s Safety System with Chatbot is an AI-driven mobile and web-based solution designed to enhance women's safety by providing real-time emergency assistance, navigation to safe zones, and awareness resources. It integrates machine learning, chatbot functionality, and location tracking to offer instant help in distress situations.
 
 ✨ Features
+
 SOS Panic Button: Send instant distress alerts with real-time location.
 
 GPS Tracking: Share live user location with emergency contacts.
@@ -17,7 +18,8 @@ Admin Dashboard: Real-time alerts management and user monitoring.
 Awareness Resources: Access to information about human trafficking, safety tips, and helpline numbers.
 
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
+
 Backend: Django (Admin Dashboard and APIs)
 
 Database: PostgreSQL
